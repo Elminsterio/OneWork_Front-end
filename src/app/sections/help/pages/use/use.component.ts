@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class UseComponent {
 
+  ownerMail?: string = 'miguelvaquero234@gmail.com';
+
   constructor( ) { }
 
 }
